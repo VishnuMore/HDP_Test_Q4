@@ -62,6 +62,9 @@ Using above Hive and Pig commands, I have generated the other remaning 8 departm
 
 # Uploaded Directory , File details as:
 
+
+I have uploaded Main one zip "Q4_OutputData.zip" which contains below two main parts:
+
 1."Question_four_hive_table_export_files" This Directory contains the All Departments Hive exported table CSV files.
 
 2."Question_Four_output_csv_department_wise" This is final output directory which is generated using PIG, and it contains all output columns in CSV file of all 9 departments .
